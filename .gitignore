@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.log
+*.zip
+.env
+config.json
+*.conf
+openwrt_sh/*-test-*/
